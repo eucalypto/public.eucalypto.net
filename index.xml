@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Viktor&#39;s Explorations</title>
+    <link>https://eucalypto.net/</link>
+    <description>Recent content on Viktor&#39;s Explorations</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 02 Nov 2022 19:27:28 +0100</lastBuildDate><atom:link href="https://eucalypto.net/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Professional Scrum Master (PSM I) Certification as self study</title>
+      <link>https://eucalypto.net/posts/2022-11-02-psmi-self-study/</link>
+      <pubDate>Wed, 02 Nov 2022 19:27:28 +0100</pubDate>
+      
+      <guid>https://eucalypto.net/posts/2022-11-02-psmi-self-study/</guid>
+      <description>TL;DR Can I recommend doing the Scrum.org Professional Scrum Master I (PSM I) Certification as self study?</description>
+    </item>
+    
+    <item>
+      <title>Legal Disclosure</title>
+      <link>https://eucalypto.net/legal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eucalypto.net/legal/</guid>
+      <description>Information in accordance with Section 5 TMG
+Contact Information Viktor Papara</description>
+    </item>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>https://eucalypto.net/privacy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eucalypto.net/privacy/</guid>
+      <description>One of the principles of GDPR is that you, the website visitor, understand what personal data is used from you and for what reason.</description>
+    </item>
+    
+    <item>
+      <title>Search Result</title>
+      <link>https://eucalypto.net/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eucalypto.net/search/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What is this site?</title>
+      <link>https://eucalypto.net/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eucalypto.net/about/</guid>
+      <description>I&amp;rsquo;m constantly learning new ideas and insights in my profession. This website is the result of my urge to share some of it 🤗.</description>
+    </item>
+    
+  </channel>
+</rss>
